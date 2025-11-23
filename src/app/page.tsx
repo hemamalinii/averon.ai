@@ -150,7 +150,7 @@ export default function Home() {
               <Button
                 onClick={handlePredict}
                 disabled={isPredicting || isLoading}
-                className="bg-blue-600 hover:bg-blue-700"
+                className="bg-blue-600 hover:bg-blue-700 text-white"
               >
                 {isPredicting ? (
                   <>
@@ -166,6 +166,7 @@ export default function Home() {
                 variant="outline"
                 onClick={() => setTransactions([])}
                 disabled={isPredicting || isLoading}
+                className="text-white border-gray-500 hover:bg-gray-800"
               >
                 Clear All
               </Button>
