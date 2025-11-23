@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1763819587098,
+      "tag": "0000_icy_doctor_strange",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1763819928542,
+      "tag": "0001_amused_nehzno",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1763821948735,
+      "tag": "0002_strange_virginia_dare",
+      "breakpoints": true
+    }
+  ]
+}
